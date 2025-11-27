@@ -1,0 +1,11 @@
+{
+  "name": "search_lite",
+  "version": "1.0.0",
+  "description": "Minimal search capability for agents.",
+  "capabilities": {
+    "search_lite": {
+      "schema": "./schema.json",
+      "handler": "src/index.js"
+    }
+  }
+}
